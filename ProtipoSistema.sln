@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProtipoSistema", "ProtipoSistema\ProtipoSistema.csproj", "{57ED48C6-DD56-48B8-9473-ABB6EFF45D5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57ED48C6-DD56-48B8-9473-ABB6EFF45D5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57ED48C6-DD56-48B8-9473-ABB6EFF45D5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57ED48C6-DD56-48B8-9473-ABB6EFF45D5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57ED48C6-DD56-48B8-9473-ABB6EFF45D5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D618AC53-1AE5-48F2-AD9F-6995763B4EBB}
+	EndGlobalSection
+EndGlobal
